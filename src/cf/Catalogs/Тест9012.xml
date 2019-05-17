@@ -1,69 +1,77 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.8">
-	<Document uuid="a21cdf1e-4963-4a5f-99a0-b56f4489a3b0">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Catalog uuid="3d2aecc1-2126-4985-8ec8-8cc4d58664fd">
 		<InternalInfo>
-			<xr:GeneratedType name="DocumentObject.ТестовыйСправочник" category="Object">
-				<xr:TypeId>945266b8-41f6-40bb-89cb-bc499ea6d91a</xr:TypeId>
-				<xr:ValueId>b0b34581-0bbf-4dea-8f08-fb941771e180</xr:ValueId>
+			<xr:GeneratedType name="CatalogObject.Тест9012" category="Object">
+				<xr:TypeId>11271fb2-80e5-4b9c-8b05-fac5bad5ed3e</xr:TypeId>
+				<xr:ValueId>c0e9d71d-b477-4a3c-97b2-1ca2cc20e1a5</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentRef.ТестовыйСправочник" category="Ref">
-				<xr:TypeId>839a8981-adc2-4350-82cb-e7240f364a07</xr:TypeId>
-				<xr:ValueId>3db344fe-20f3-4b25-b645-c31ef224b3b4</xr:ValueId>
+			<xr:GeneratedType name="CatalogRef.Тест9012" category="Ref">
+				<xr:TypeId>ea1e5009-1db7-45b4-a7b4-7b8be12c149f</xr:TypeId>
+				<xr:ValueId>38bdc9d1-656d-480e-9aa5-ece68f6cb52a</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentSelection.ТестовыйСправочник" category="Selection">
-				<xr:TypeId>2b00948e-2f3c-4557-8462-c8bce9c3ab8d</xr:TypeId>
-				<xr:ValueId>ee0d7e6f-4bdd-4400-865a-c4ef43352347</xr:ValueId>
+			<xr:GeneratedType name="CatalogSelection.Тест9012" category="Selection">
+				<xr:TypeId>a52519be-fa79-455f-8ab1-bd26d8211048</xr:TypeId>
+				<xr:ValueId>be9c7ff8-5e55-49f3-88ca-6adeb0e62bc0</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentList.ТестовыйСправочник" category="List">
-				<xr:TypeId>7a768588-fad5-4465-854a-66073fb5f59a</xr:TypeId>
-				<xr:ValueId>9eed456c-e657-4546-a538-b512dae70fc6</xr:ValueId>
+			<xr:GeneratedType name="CatalogList.Тест9012" category="List">
+				<xr:TypeId>7f10e0fe-cb93-4322-913c-a649049adc82</xr:TypeId>
+				<xr:ValueId>2ead24e9-a79a-4174-b320-205c60860ae7</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentManager.ТестовыйСправочник" category="Manager">
-				<xr:TypeId>9e37bb46-0e08-4c53-bc74-2a0908e01da6</xr:TypeId>
-				<xr:ValueId>2f6a10cf-b8ad-425f-acbe-f98e1800ab5f</xr:ValueId>
+			<xr:GeneratedType name="CatalogManager.Тест9012" category="Manager">
+				<xr:TypeId>8e66c7a7-0860-4f43-86b2-3bce9b53f390</xr:TypeId>
+				<xr:ValueId>fe246fa5-9d02-4203-8ff6-004fe48dd915</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ТестовыйСправочник</Name>
+			<Name>Тест9012</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Тестовый справочник</v8:content>
+					<v8:content>Тест9012</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
+			<Hierarchical>false</Hierarchical>
+			<HierarchyType>HierarchyFoldersAndItems</HierarchyType>
+			<LimitLevelCount>false</LimitLevelCount>
+			<LevelCount>2</LevelCount>
+			<FoldersOnTop>true</FoldersOnTop>
 			<UseStandardCommands>true</UseStandardCommands>
-			<Numerator/>
-			<NumberType>String</NumberType>
-			<NumberLength>9</NumberLength>
-			<NumberAllowedLength>Variable</NumberAllowedLength>
-			<NumberPeriodicity>Nonperiodical</NumberPeriodicity>
+			<Owners/>
+			<SubordinationUse>ToItems</SubordinationUse>
+			<CodeLength>9</CodeLength>
+			<DescriptionLength>25</DescriptionLength>
+			<CodeType>String</CodeType>
+			<CodeAllowedLength>Variable</CodeAllowedLength>
+			<CodeSeries>WholeCatalog</CodeSeries>
 			<CheckUnique>true</CheckUnique>
 			<Autonumbering>true</Autonumbering>
+			<DefaultPresentation>AsDescription</DefaultPresentation>
 			<Characteristics/>
-			<BasedOn/>
+			<PredefinedDataUpdate>Auto</PredefinedDataUpdate>
+			<EditType>InDialog</EditType>
+			<QuickChoice>false</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
 			<InputByString>
-				<xr:Field>Document.ТестовыйСправочник.StandardAttribute.Number</xr:Field>
+				<xr:Field>Catalog.Тест9012.StandardAttribute.Description</xr:Field>
+				<xr:Field>Catalog.Тест9012.StandardAttribute.Code</xr:Field>
 			</InputByString>
-			<CreateOnInput>Use</CreateOnInput>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
 			<DefaultObjectForm/>
+			<DefaultFolderForm/>
 			<DefaultListForm/>
 			<DefaultChoiceForm/>
+			<DefaultFolderChoiceForm/>
 			<AuxiliaryObjectForm/>
+			<AuxiliaryFolderForm/>
 			<AuxiliaryListForm/>
 			<AuxiliaryChoiceForm/>
-			<Posting>Allow</Posting>
-			<RealTimePosting>Allow</RealTimePosting>
-			<RegisterRecordsDeletion>AutoDeleteOnUnpost</RegisterRecordsDeletion>
-			<RegisterRecordsWritingOnPost>WriteSelected</RegisterRecordsWritingOnPost>
-			<SequenceFilling>AutoFill</SequenceFilling>
-			<RegisterRecords/>
-			<PostInPrivilegedMode>true</PostInPrivilegedMode>
-			<UnpostInPrivilegedMode>true</UnpostInPrivilegedMode>
+			<AuxiliaryFolderChoiceForm/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<BasedOn/>
 			<DataLockFields/>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<FullTextSearch>Use</FullTextSearch>
@@ -72,19 +80,14 @@
 			<ListPresentation/>
 			<ExtendedListPresentation/>
 			<Explanation/>
+			<CreateOnInput>Use</CreateOnInput>
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-			<DataHistory>DontUse</DataHistory>
 		</Properties>
 		<ChildObjects>
-			<Attribute uuid="1c3b6879-309d-4849-b9fe-c696e4cd8b05">
+			<Attribute uuid="560b0811-7d02-45a1-9bc4-0912086d2578">
 				<Properties>
-					<Name>Тест1</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Тест1</v8:content>
-						</v8:item>
-					</Synonym>
+					<Name>Реквизит1</Name>
+					<Synonym/>
 					<Comment/>
 					<Type>
 						<v8:Type>xs:string</v8:Type>
@@ -114,18 +117,18 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Use>ForItem</Use>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
-					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="41b72fc7-72a2-4414-971f-e849cf6040cc">
+			<Attribute uuid="8644ecb7-d4e0-413d-85ef-88cf9a88dbcf">
 				<Properties>
-					<Name>Тест2</Name>
+					<Name>тлрпор</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Тест2</v8:content>
+							<v8:content>Тлрпор</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -157,11 +160,11 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Use>ForItem</Use>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
-					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
 		</ChildObjects>
-	</Document>
+	</Catalog>
 </MetaDataObject>

@@ -8,7 +8,7 @@
 	  "lic-try-count": 5,
 	  "plugins": {
 			"enable": [
-				"increment",
+				"full",
 				"check-authors",
 				"check-comments",
 				"sync-remote"
