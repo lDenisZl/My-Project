@@ -26,7 +26,7 @@
 	"repositories": [
 	  {
 			"name": "TestRepo",
-			"path": "C:\\hackaton\\My-Project",
+			"path": "C:\\hackaton\\RepoH",
 			"dir": "./src/cf",
 			"temp-dir": "",
 			"v8version": "8.3.14",
