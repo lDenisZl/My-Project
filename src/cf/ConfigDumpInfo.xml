@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.8">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="c9cab0a6-c95b-424d-82f9-0a4894b5593a" configVersion="5efd64dc4df5ef43af758febcaf0f02000000000"/>
-		<Metadata name="Document.ТестовыйСправочник" id="a21cdf1e-4963-4a5f-99a0-b56f4489a3b0" configVersion="6d26137dd299b847a7d6d25b78e0944f00000000">
-			<Metadata name="Document.ТестовыйСправочник.Attribute.Тест1" id="1c3b6879-309d-4849-b9fe-c696e4cd8b05"/>
-			<Metadata name="Document.ТестовыйСправочник.Attribute.Тест2" id="41b72fc7-72a2-4414-971f-e849cf6040cc"/>
+		<Metadata name="Catalog.Тест9012" id="3d2aecc1-2126-4985-8ec8-8cc4d58664fd" configVersion="337f99895c3ee44da9fd21ddc8f78b9300000000">
+			<Metadata name="Catalog.Тест9012.Attribute.Реквизит1" id="560b0811-7d02-45a1-9bc4-0912086d2578"/>
+			<Metadata name="Catalog.Тест9012.Attribute.тлрпор" id="8644ecb7-d4e0-413d-85ef-88cf9a88dbcf"/>
 		</Metadata>
-		<Metadata name="Language.Русский" id="8e5d8d6c-e280-4ac4-a188-0502e4d77fb1" configVersion="559c32b6f8b8e34d8ca70f501540574a00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="663a02af-9a7d-431a-98ec-fbade490b967" configVersion="f8eaa511abfa864891127b51cd7c7ff400000000"/>
+		<Metadata name="Language.Русский" id="30bbecb8-e393-41e7-b86c-d5655af432fb" configVersion="0dd06d70bbc1164a93d9a247a935285500000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
