@@ -2,4 +2,4 @@
 
 gitsync.Выполнить(AGENT: "windows",
         DB_USER_CREDENTIONALS_ID: "DB_USER_CREDENTIONALS_ID",
-        V8VERSION: "8.3.13")
+        V8VERSION: "8.3.14")
