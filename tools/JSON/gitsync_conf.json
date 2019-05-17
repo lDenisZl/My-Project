@@ -1,7 +1,7 @@
 {
 	"globals": {
 	  "storage-user": "Администратор",
-	  "storage-pwd": "",
+	  "storage-pwd": "123",
 	  "git-path": "git",
 	  "v8version": 8.3,
 	  "domain-email": "gitlab.com",
