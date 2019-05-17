@@ -2,8 +2,9 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.8">
 	<ConfigVersions>
 		<Metadata name="Configuration.Конфигурация" id="c9cab0a6-c95b-424d-82f9-0a4894b5593a" configVersion="f04f2e61bc391e42bc026a117ad7e1dd00000000"/>
-		<Metadata name="Document.ТестовыйСправочник" id="a21cdf1e-4963-4a5f-99a0-b56f4489a3b0" configVersion="c4019e27bb883343b95c5cb911d372c300000000">
+		<Metadata name="Document.ТестовыйСправочник" id="a21cdf1e-4963-4a5f-99a0-b56f4489a3b0" configVersion="6d26137dd299b847a7d6d25b78e0944f00000000">
 			<Metadata name="Document.ТестовыйСправочник.Attribute.Тест1" id="1c3b6879-309d-4849-b9fe-c696e4cd8b05"/>
+			<Metadata name="Document.ТестовыйСправочник.Attribute.Тест2" id="41b72fc7-72a2-4414-971f-e849cf6040cc"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="8e5d8d6c-e280-4ac4-a188-0502e4d77fb1" configVersion="559c32b6f8b8e34d8ca70f501540574a00000000"/>
 	</ConfigVersions>
