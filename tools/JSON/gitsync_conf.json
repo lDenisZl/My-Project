@@ -4,7 +4,7 @@
 	  "storage-pwd": "",
 	  "git-path": "git",
 	  "v8version": 8.3,
-	  "domain-email": "gitlab.com",
+	  "domain-email": "githab.com",
 	  "lic-try-count": 5,
 	  "plugins": {
 			"enable": [
@@ -26,12 +26,12 @@
 	"repositories": [
 	  {
 			"name": "TestRepo",
-			"path": "c://temp",
-			"dir": "./src",
+			"path": "C:\\hackaton\\My-Project",
+			"dir": "./src/cf",
 			"temp-dir": "",
 			"v8version": "8.3.14",
 			"plugins-config": {
-				"URL": "git@github.com:ZhdanovR/cicdForOne.git"
+				"URL": "git@github.com:lDenisZl/My-Project.git"
 			}
 		}
 	]
