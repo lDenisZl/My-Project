@@ -2,4 +2,4 @@
 
 gitsync(AGENT: "windows",
         DB_USER_CREDENTIONALS_ID: "DB_USER_CREDENTIONALS_ID",
-        V8VERSION: "8.3.14")
+        V8VERSION: "8.3.10")
