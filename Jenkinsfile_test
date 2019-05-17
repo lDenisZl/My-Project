@@ -4,5 +4,5 @@
 performTesting(AGENT: "slave",
         V8VERSION: "8.3.13",
         SOURCE_PATH: "./src/cf",
-        EMAILS_FOR_NOTIFICATION: "nl.ruslan@yandex.ru")
+        EMAILS_FOR_NOTIFICATION: "lDenisZl@yandex.ru")
         

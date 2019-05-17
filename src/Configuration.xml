@@ -133,6 +133,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Document>ТестовыйСправочник</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
